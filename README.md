@@ -2,15 +2,15 @@
 
 1. ¿Qué es una página web?
 
-Es un conjunto de informacion  que se encuentra en una direccion determinada de internet
+Una página web, página electrónica, página digital o ciberpágina, es un documento digital complejo, que puede integrar y/o contener texto, sonido, vídeo, programas, enlaces, imágenes, hipervínculos y otros elementos, adaptado para la World Wide Web, y que puede ser accedida y visualizada mediante un navegador web.
 
 2. ¿Qué es un sitio web?
 
-Es una coleccion de paginas web relacionadas a un dominio o subdominio de internet
+Un sitio web, portal o cibersitio es una colección de páginas web relacionadas y comunes a un dominio de internet o subdominio en la World Wide Web dentro de Internet.
 
 3. ¿Qué es una aplicación web?
 
-Es una aplicacion a la que se accede usando como cliente un navegador web
+aplicación web es aquella herramienta que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.
 
 4. ¿Qué es una herramienta ofimática?
 
