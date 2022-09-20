@@ -53,3 +53,4 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
+![Flujo de trabajo](https://github.com/cescoxd/M4-UF1-A2-documentacioMarckdown_SotoAlfonsoFrancesc/blob/main/imagen_2022-09-20_114531588.png "ejemplo flujo de trabajo")
